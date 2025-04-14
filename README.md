@@ -16,8 +16,8 @@ A Flask-based web application for managing students, groups, and courses with Po
 
 ## Web application features
 
-✅ CRUD Operations – Create, read, update, and delete students, groups, and courses
-✅ REST API – JSON-based endpoints for integration
-✅ Data Generation – Random student/group/course generation with Faker
-✅ PostgreSQL Backend – Reliable and scalable database
-✅ Unit Tests – Test coverage with pytest
+- CRUD Operations – Create, read, update, and delete students, groups, and courses
+- REST API – JSON-based endpoints for integration
+- Data Generation – Random student/group/course generation with Faker
+- PostgreSQL Backend – Reliable and scalable database
+- Unit Tests – Test coverage with pytest
