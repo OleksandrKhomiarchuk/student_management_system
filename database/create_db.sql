@@ -1,0 +1,3 @@
+CREATE USER postgres WITH PASSWORD '1526';
+CREATE DATABASE student_db OWNER postgres;
+GRANT ALL PRIVILEGES ON DATABASE student_db TO postgres;

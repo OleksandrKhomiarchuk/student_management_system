@@ -1,0 +1,7 @@
+/venv/
+/.idea/
+/.pyc/
+.coverage
+*.whl
+*.gz
+*.db
